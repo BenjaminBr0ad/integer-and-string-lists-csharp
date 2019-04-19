@@ -1,0 +1,11 @@
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/bin/Debug/netcoreapp2.2/lists.deps.json
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/bin/Debug/netcoreapp2.2/lists.runtimeconfig.json
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/bin/Debug/netcoreapp2.2/lists.runtimeconfig.dev.json
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/bin/Debug/netcoreapp2.2/lists.dll
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/bin/Debug/netcoreapp2.2/lists.pdb
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/obj/Debug/netcoreapp2.2/lists.csprojAssemblyReference.cache
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/obj/Debug/netcoreapp2.2/lists.csproj.CoreCompileInputs.cache
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/obj/Debug/netcoreapp2.2/lists.AssemblyInfoInputs.cache
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/obj/Debug/netcoreapp2.2/lists.AssemblyInfo.cs
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/obj/Debug/netcoreapp2.2/lists.dll
+/Users/benjaminbroad/Workspace/dotnet-projects/lists/obj/Debug/netcoreapp2.2/lists.pdb
